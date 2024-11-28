@@ -1,6 +1,8 @@
 # AI_for_Education
 Using Gemini for leveraging the evaluation framework and continuous improvement  of a public school in Colombia
-Workflow 
+Workflow to get meaningful data from handwritten surveys (Example of the survey Below)
+
+![img6010](https://github.com/user-attachments/assets/dd906a07-f159-4853-9131-f5257749cb05)
 
 Scan the survey + Upload the image + get the transcription + use the LLM capabilities to summarize the info + get the most repeated words per category + create a report for stakeholder
 
